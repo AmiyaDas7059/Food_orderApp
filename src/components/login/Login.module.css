@@ -8,6 +8,12 @@
   font-weight: bold;
   margin-bottom: 0.5rem;
 }
+.login p{
+  padding: 0;
+  margin: 0;
+  color: crimson;
+  font-size: 10px;
+}
 .login input{
    
   display: block;
@@ -16,6 +22,7 @@
   border: 1px solid #ccc;
   padding: 0.4rem;
   margin-bottom: 0.5rem;
+  outline: none;
 }
 .login .input:focus,select:focus,
 textarea:focus{
